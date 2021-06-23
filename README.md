@@ -3,7 +3,8 @@
 
 [*see instructions for details*](Instructions.md)
 
-*Insert Class Diagram here*  
+*Insert Class Diagram here* 
+![alt text] ()
 
 ## Summary
 *Include a brief summary that describes your system that your are modelling*
