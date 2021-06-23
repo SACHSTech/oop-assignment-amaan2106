@@ -4,7 +4,10 @@
 [*see instructions for details*](Instructions.md)
 
 *Insert Class Diagram here* 
-![alt text] ()
+![alt text] (https://github.com/SACHSTech/oop-assignment-amaan2106/blob/main/src/School/OOPDiagram.png)
 
 ## Summary
 *Include a brief summary that describes your system that your are modelling*
+I am modeling a school system. It contains students, teachers and janitors. The main purpose of it is to be able to 
+get all the information of each staff or student if called upon. This could be used for criminal investigation
+since the system will give nessecary information that could be used to solve a case in a school.
